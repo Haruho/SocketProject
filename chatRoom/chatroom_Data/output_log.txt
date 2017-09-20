@@ -1,0 +1,37 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.015 seconds
+Platform assembly: D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProjects\CardGame\chatRoom\chatroom_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.854271 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 8b84 -> priority: 1 
+  Thread -> id: 8a8c -> priority: 1 
+  Thread -> id: 1bc0 -> priority: 1 
+  Thread -> id: 82ec -> priority: 1 
+SocketException: 由于套接字没有连接并且(当使用一个 sendto 调用发送数据报套接字时)没有提供地址，发送或接收数据的请求没有被接受。
+
+  at System.Net.Sockets.Socket.Shutdown (SocketShutdown how) [0x00000] in <filename unknown>:0 
+  at ChatMannger.OnDestroy () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
