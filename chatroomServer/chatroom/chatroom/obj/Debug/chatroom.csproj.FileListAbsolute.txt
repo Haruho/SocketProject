@@ -1,0 +1,6 @@
+E:\unity5project\SocketProject-master\chatroomServer\chatroom\chatroom\bin\Debug\chatroom.exe.config
+E:\unity5project\SocketProject-master\chatroomServer\chatroom\chatroom\bin\Debug\chatroom.exe
+E:\unity5project\SocketProject-master\chatroomServer\chatroom\chatroom\bin\Debug\chatroom.pdb
+E:\unity5project\SocketProject-master\chatroomServer\chatroom\chatroom\obj\Debug\chatroom.csprojResolveAssemblyReference.cache
+E:\unity5project\SocketProject-master\chatroomServer\chatroom\chatroom\obj\Debug\chatroom.exe
+E:\unity5project\SocketProject-master\chatroomServer\chatroom\chatroom\obj\Debug\chatroom.pdb

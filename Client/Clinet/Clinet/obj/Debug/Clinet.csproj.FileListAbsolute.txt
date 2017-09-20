@@ -1,0 +1,5 @@
+D:\UnityProjects\CardGame\Client\Clinet\Clinet\bin\Debug\Clinet.exe.config
+D:\UnityProjects\CardGame\Client\Clinet\Clinet\bin\Debug\Clinet.exe
+D:\UnityProjects\CardGame\Client\Clinet\Clinet\bin\Debug\Clinet.pdb
+D:\UnityProjects\CardGame\Client\Clinet\Clinet\obj\Debug\Clinet.exe
+D:\UnityProjects\CardGame\Client\Clinet\Clinet\obj\Debug\Clinet.pdb
