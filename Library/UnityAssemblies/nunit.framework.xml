@@ -989,11 +989,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.ExceptionNotThrownConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.ExceptionNotThrownConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Applies the constraint to an actual value, returning a ConstraintResult.
             </summary>
@@ -1050,11 +1046,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.FileOrDirectoryExistsConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.FileOrDirectoryExistsConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Applies the constraint to an actual value, returning a ConstraintResult.
             </summary>
@@ -1088,11 +1080,7 @@
             The ConstraintBuilder holding this constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.IConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.IConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Applies the constraint to an actual value, returning a ConstraintResult.
             </summary>
@@ -1193,11 +1181,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.ThrowsExceptionConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.ThrowsExceptionConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Executes the code and returns success if an exception is thrown.
             </summary>
@@ -1231,11 +1215,7 @@
             this to another name in their constructors.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.AllItemsConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.AllItemsConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Apply the item constraint to each item in the collection,
             failing if any item fails.
@@ -1260,11 +1240,7 @@
             Gets text describing a constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.AndConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.AndConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Apply both member constraints to an actual value, succeeding 
             succeeding only if both of them succeed.
@@ -1334,11 +1310,7 @@
             <param name="type"></param>
             <param name="baseConstraint"></param>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.AttributeConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.AttributeConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Determines whether the Type or other provider has the 
             expected attribute and if its value matches the
@@ -1368,11 +1340,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.AttributeExistsConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.AttributeExistsConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Tests whether the object provides the expected attribute.
             </summary>
@@ -1414,11 +1382,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.BinarySerializableConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.BinarySerializableConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -1456,11 +1420,7 @@
             <c>true</c> if the specified enumerable is empty; otherwise, <c>false</c>.
             </returns>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.CollectionConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.CollectionConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -1898,11 +1858,7 @@
             <param name="greaterComparisonResult">if set to <c>true</c> greater succeeds.</param>
             <param name="predicate">String used in describing the constraint.</param>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.ComparisonConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.ComparisonConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -1974,11 +1930,7 @@
             The ConstraintBuilder holding this constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.Constraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.Constraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Applies the constraint to an actual value, returning a ConstraintResult.
             </summary>
@@ -3097,11 +3049,7 @@
             Flag the constraint to ignore case and return self.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.ContainsConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.ContainsConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -3135,11 +3083,7 @@
             Gets text describing a constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.DelayedConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.DelayedConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -3245,11 +3189,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.EmptyConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.EmptyConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -3267,11 +3207,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.EmptyDirectoryConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.EmptyDirectoryConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -3497,11 +3433,7 @@
             <param name="comparer">The IComparer object to use.</param>
             <returns>Self.</returns>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.EqualConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.EqualConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -3630,11 +3562,7 @@
             Initializes a new instance of the <see cref="T:NUnit.Framework.Constraints.FalseConstraint"/> class.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.FalseConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.FalseConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -3861,11 +3789,7 @@
         </member>
         <member name="P:NUnit.Framework.Constraints.ConstraintResult.ActualValue">
             <summary>
-<<<<<<< HEAD
-            The actual value that was passed to the <see cref="M:NUnit.Framework.Constraints.Constraint.ApplyTo(System.Object)"/> method.
-=======
             The actual value that was passed to the <see cref="M:NUnit.Framework.Constraints.Constraint.ApplyTo``1(``0)"/> method.
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             </summary>
         </member>
         <member name="P:NUnit.Framework.Constraints.ConstraintResult.Status">
@@ -3886,11 +3810,7 @@
         <member name="P:NUnit.Framework.Constraints.ConstraintResult.Description">
             <summary>
             Description of the constraint may be affected by the state the constraint had
-<<<<<<< HEAD
-            when <see cref="M:NUnit.Framework.Constraints.Constraint.ApplyTo(System.Object)"/> was performed against the actual value.
-=======
             when <see cref="M:NUnit.Framework.Constraints.Constraint.ApplyTo``1(``0)"/> was performed against the actual value.
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             </summary>
         </member>
         <member name="M:NUnit.Framework.Constraints.ConstraintResult.WriteMessageTo(NUnit.Framework.Constraints.MessageWriter)">
@@ -4211,11 +4131,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.NaNConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.NaNConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test that the actual value is an NaN
             </summary>
@@ -4242,11 +4158,7 @@
             this to another name in their constructors.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.NoItemConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.NoItemConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Apply the item constraint to each item in the collection,
             failing if any item fails.
@@ -4265,11 +4177,7 @@
             </summary>
             <param name="baseConstraint">The base constraint to be negated.</param>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.NotConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.NotConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -4286,11 +4194,7 @@
             Initializes a new instance of the <see cref="T:NUnit.Framework.Constraints.NullConstraint"/> class.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.NullConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.NullConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Applies the constraint to an actual value, returning a ConstraintResult.
             </summary>
@@ -4745,11 +4649,7 @@
             Gets text describing a constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.OrConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.OrConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Apply the member constraints to an actual value, succeeding 
             succeeding as soon as one of them succeeds.
@@ -4811,11 +4711,7 @@
             Gets text describing a constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.PredicateConstraint`1.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.PredicateConstraint`1.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Determines whether the predicate succeeds when applied
             to the actual value.
@@ -4861,11 +4757,7 @@
             <param name="name">The name.</param>
             <param name="baseConstraint">The constraint to apply to the property.</param>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.PropertyConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.PropertyConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -4900,11 +4792,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.PropertyExistsConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.PropertyExistsConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the property exists for a given object
             </summary>
@@ -4936,11 +4824,7 @@
             Gets text describing a constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.RangeConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.RangeConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -5071,11 +4955,7 @@
             use in messages and in the ConstraintResult.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.SameAsConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.SameAsConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -5150,11 +5030,7 @@
             this to another name in their constructors.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.SomeItemsConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.SomeItemsConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Apply the item constraint to each item in the collection,
             succeeding if any item succeeds.
@@ -5227,11 +5103,7 @@
             Modify the constraint to ignore case in matching.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.StringConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.StringConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -5287,11 +5159,7 @@
             Gets text describing a constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.ThrowsConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.ThrowsConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Executes the code of the delegate and captures any exception.
             If a non-null base constraint was provided, it applies that
@@ -5327,11 +5195,7 @@
             Gets text describing a constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.ThrowsNothingConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.ThrowsNothingConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -5490,11 +5354,7 @@
             Initializes a new instance of the <see cref="T:NUnit.Framework.Constraints.TrueConstraint"/> class.
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.TrueConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.TrueConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -5524,11 +5384,7 @@
             <param name="type">The expected type for the constraint</param>
             <param name="descriptionPrefix">Prefix used in forming the constraint description</param>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.TypeConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.TypeConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Applies the constraint to an actual value, returning a ConstraintResult.
             </summary>
@@ -5572,11 +5428,7 @@
             Gets text describing a constraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.XmlSerializableConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.XmlSerializableConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Test whether the constraint is satisfied by a given value
             </summary>
@@ -5602,11 +5454,7 @@
             <param name="expectedCount"></param>
             <param name="itemConstraint"></param>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.ExactCountConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.ExactCountConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Apply the item constraint to each item in the collection,
             succeeding only if the expected number of items pass.
@@ -5645,11 +5493,7 @@
             Constructs an ExceptionTypeConstraint
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="M:NUnit.Framework.Constraints.ExceptionTypeConstraint.ApplyTo(System.Object)">
-=======
         <member name="M:NUnit.Framework.Constraints.ExceptionTypeConstraint.ApplyTo``1(``0)">
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
             <summary>
             Applies the constraint to an actual value, returning a ConstraintResult.
             </summary>
@@ -18001,27 +17845,6 @@
             
             </summary>
         </member>
-<<<<<<< HEAD
-        <member name="T:System.Web.UI.ICallbackEventHandler">
-            <summary>
-            A shim of the .NET interface for platforms that do not support it.
-            Used to indicate that a control can be the target of a callback event on the server.
-            </summary>
-        </member>
-        <member name="M:System.Web.UI.ICallbackEventHandler.RaiseCallbackEvent(System.String)">
-            <summary>
-            Processes a callback event that targets a control.
-            </summary>
-            <param name="report"></param>
-        </member>
-        <member name="M:System.Web.UI.ICallbackEventHandler.GetCallbackResult">
-            <summary>
-            Returns the results of a callback event that targets a control.
-            </summary>
-            <returns></returns>
-        </member>
-=======
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
         <member name="T:System.Lazy`1">
             <summary>
             

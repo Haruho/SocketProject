@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-2017.1.0f3:3.0.0.1
-StandaloneWindows
-D:/Unity/Editor/Data/Managed/UnityEditor.dll
-D:/Unity/Editor/Data/Managed/UnityEngine.dll
-D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
-D:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
-D:/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
-D:/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
-D:/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
-D:/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
-D:/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
-=======
 5.6.0f3:3.1.0.0
 StandaloneWindows
 D:/Program Files/Unity 5.6.0f3/Editor/Data/Managed/UnityEngine.dll
@@ -23,4 +10,3 @@ D:/Program Files/Unity 5.6.0f3/Editor/Data/UnityExtensions/Unity/UnityHoloLens/R
 D:/Program Files/Unity 5.6.0f3/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
 D:/Program Files/Unity 5.6.0f3/Editor/Data/Managed/UnityEditor.dll
 D:/Program Files/Unity 5.6.0f3/Editor/Data/Managed/Mono.Cecil.dll
->>>>>>> 4e15debfe65b9f34c424851741a9b295acb4a4af
