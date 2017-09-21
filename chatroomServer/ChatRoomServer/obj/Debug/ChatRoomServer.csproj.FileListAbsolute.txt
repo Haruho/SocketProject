@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\ChatRoomServer\ChatRoomServer\bin\Debug\ChatRoomServer.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\ChatRoomServer\ChatRoomServer\obj\Debug\ChatRoomServer.pdb

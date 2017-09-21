@@ -100,9 +100,6 @@ public class ChatManager : MonoBehaviour
             int length = clientSocket.Receive(data);
 
             message = Encoding.UTF8.GetString(data, 0, length);
-
-            //chatLabel.text += "\n" + message;
-
         }
 
     }

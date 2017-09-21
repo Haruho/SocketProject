@@ -1,6 +1,0 @@
-D:\UnityProjects\CardGame\Server\Server\Server\bin\Debug\Server.exe.config
-D:\UnityProjects\CardGame\Server\Server\Server\bin\Debug\Server.exe
-D:\UnityProjects\CardGame\Server\Server\Server\bin\Debug\Server.pdb
-D:\UnityProjects\CardGame\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
-D:\UnityProjects\CardGame\Server\Server\Server\obj\Debug\Server.exe
-D:\UnityProjects\CardGame\Server\Server\Server\obj\Debug\Server.pdb
