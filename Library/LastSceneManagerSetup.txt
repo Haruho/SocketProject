@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Example/Emample.unity
+- path: Assets/CardGame/Basic.unity
   isLoaded: 1
   isActive: 1

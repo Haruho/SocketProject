@@ -32,3 +32,13 @@
 //9-21 
 
 ·添加了服务器代码，位置在ChatRoomServer文件夹
+
+
+
+//9-25更新
+有了服务器和客户端的交互之后，准备把这个工程做成一个卡牌游戏的模板
+现在先实现一些基础的功能
+
+Q：如何在Canvas中的渲染顺序？
+A：观察之后发现越下面的物体会在最上层显示，所以每次鼠标扫描到卡片的时候，都要把当前卡片
+通过SetAsLastSibling()函数把它放到Canvas的最下面。同样还有SetAsFirstSibling（）和SetSiblingIndex（int index）;函数
