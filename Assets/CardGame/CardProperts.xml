@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cards>
+  <id id="1">
+    <name>久我 晨牛</name>
+    <function>对敌方造成3点伤害</function>
+    <describe>我会造成三点伤害你怕不怕？</describe>
+  </id>
+  <id id="2">
+    <name>七赖 八宵（极）</name>
+    <function>对敌方造成5点伤害</function>
+    <describe>我这一锤子下去你可能会死！</describe>
+  </id>
+  <id id="3">
+    <name>七赖 八宵</name>
+    <function>扫描敌方已确定血量</function>
+    <describe>你逃不过我的眼睛！</describe>
+  </id>
+  <id id="4">
+    <name>百知 琉璃</name>
+    <function>给自己加2点血</function>
+    <describe>接受我的洗礼吧!</describe>
+  </id>
+  <id id="5">
+    <name>暗</name>
+    <function>让对方攻击失效一回合</function>
+    <describe>你打不到我的！</describe>
+  </id>
+</Cards>
