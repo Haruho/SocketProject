@@ -52,3 +52,19 @@ A£º¹Û²ìÖ®ºó·¢ÏÖÔ½ÏÂÃæµÄÎïÌå»áÔÚ×îÉÏ²ãÏÔÊ¾£¬ËùÒÔÃ¿´ÎÊó±êÉ¨Ãèµ½¿¨Æ¬µÄÊ±ºò£¬¶¼Òª°Ñµ
 ¾ÍÉáÆúÁË£¬Õâ¸öÉ¨¹ý·Å´óÊÇÍ¨¹ý½Ó¿Ú×öµÄ£¬ÎªÁËÈÃÉ¨¹ýµÄ¿¨Æ¬ÔÚ»­Ãæ×îÉÏ²ã£¬ÎÒÓÃÁËÉÏ¸öpushµÄ·½·¨£¬¿ÉÄÜÕâ¸öº¯ÊýºÍÄÇ¸ö×é¼þÓÐ³åÍ»
 
 ½â¾ö°ì·¨2  Ö±½Ó´úÂëß£³öÀ´¡£ËùÓÐµÄÊÖÅÆ´æ·ÅÔÚÒ»¸ölistÖÐ£¬³öµÄÅÆ×÷Îª±ê¼Ç£¬·Ö³ÉÕâÕÅÅÆµÄÇ°ÃæºÍºóÃæ£¬Ç°ÃæµÄÅÆºóÒÆ£¬ºóÃæµÄÅÆÇ°ÒÆ£¬½Å±¾ÊÇInhandCards.cs
+
+
+//10-11
+Ìí¼ÓÁËËæ¼´Éú³É¿¨ÅÆµÄ¹¦ÄÜ
+ÊµÀý»¯UIµÄÊ±ºò£¬Î»ÖÃÕÒ²»µ½ÕýÈ·µÄÁË£¬È»ºó´ò³öÀ´Ò»¾ä¼«ÆäÆæÌØµÄ´úÂë
+
+go.GetComponent<RectTransform>().position = new Vector3(card.GetComponent<RectTransform>().rect.width * i + 280, 0, 0) + new Vector3(30 * i ,0 ,0);
+
+go¾ÍÊÇÊµÀý»¯µÄUI  Ö®Ç°Á½¸öVector3ÊÇ×éºÏÔÚÒ»ÆðµÄ£¬µ«ÊÇÊµÏÖ²»ÁËÐ§¹û£¬²ð¿ªÖ®ºó¿ÉÒÔÁË¡£¡£¡£Why£¿
+
+Ìí¼ÓÁËÏÔÊ¾¿¨ÅÆÐÅÏ¢µÄ¹¦ÄÜ£¬ÊÇUIÐü¸¡Å¶~¸úËæÊó±êÎ»ÖÃµÄÒ²ÔÚ´úÂëÀï£¬µ«ÊÇºóÀ´¾õµÃÐ§¹û²»ÊÇÄÇÃ´ÀíÏë£¬¾Í×¢ÊÍµôÁË¡£
+¿¨ÅÆµÄÐÅÏ¢ÊÇ´æÔÚXmlÖÐµÄ£¨ÊìÁ·Ê¹ÓÃ²¢ÇÒÖ»»áÊ¹ÓÃXml´æÊý¾Ý¡£¡£¡££©£¬²ã¼¶Ê²Ã´µÄÒ²²»¶à½âÊÍ£¬¾ÍÊÇÄÇÑù¿´Ò»ÑÛ¾ÍÃ÷°×ÁË¡£
+¶ÁÈ¡XmlµÄ´úÂëÔÚCardInfo.cs   Ëæ»úÉú³É¿¨ÅÆµÄ´úÂëÔÚManger.csÖÐ
+
+Q:Ã÷ÌìÑÐ¾¿ÑÐ¾¿·þÎñÆ÷µÄ½»»¥£¬ÔõÃ´°Ñ³öÅÆµÈÐÅÏ¢·¢ËÍ¸øÁíÒ»Î»Íæ¼Ò¡£
+ÕÒ¸öºÃÓÃµÄSDK×öÒ»ÏÂ×¢²áµÇÂ½¹¦ÄÜ¡£

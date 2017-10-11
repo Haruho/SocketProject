@@ -76,11 +76,16 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library\UnityAssemblies\Mono.Cecil.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CardGame\Scripts\Accont.cs" />
+    <Compile Include="Assets\CardGame\Scripts\CardInfo.cs" />
     <Compile Include="Assets\CardGame\Scripts\Cards.cs" />
-    <Compile Include="Assets\CardGame\Scripts\InhandsCards.cs" />
+    <Compile Include="Assets\CardGame\Scripts\HoverWindow.cs" />
+    <Compile Include="Assets\CardGame\Scripts\Manger.cs" />
     <Compile Include="Assets\ChatRoom\ChatManager.cs" />
   </ItemGroup>
   <ItemGroup>
